@@ -1,0 +1,22 @@
+{
+  "name": "cgd-practice-01",
+  "version": "1.1.0",
+  "description": "Exemplo Prático: Como Criar um Pipeline de Releases no GitHub Actions",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahacalabria/cgd-practice-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahacalabria/cgd-practice-01/issues"
+  },
+  "homepage": "https://github.com/ahacalabria/cgd-practice-01#readme"
+}
